@@ -1,1 +1,1 @@
-[![Daily Repository Update](https://github.com/24f1001304-cmyk/Automating-Repository-Updates-for-DevSync/actions/workflows/daily-update.yml/badge.svg)](https://github.com/24f1001304-cmyk/Automating-Repository-Updates-for-DevSync/actions/workflows/daily-update.yml)
+[![Daily Repository Update](https://github.com/24f1001304-cmyk/Automating-Repository-Updates-for-DevSync/actions/workflows/daily-update.yml/badge.svg?branch=main)](https://github.com/24f1001304-cmyk/Automating-Repository-Updates-for-DevSync/actions/workflows/daily-update.yml)
